@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Custom rule for the audio player */
+audio::-webkit-media-controls-panel {
+  background-color: #f1f3f4;
+}
